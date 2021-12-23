@@ -4,6 +4,11 @@
   <artifactId>CCTV</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   
+  <properties>
+		<maven.source.compiler>1.8</maven.source.compiler>
+		<maven.source.target>1.8</maven.source.target>
+	</properties>
+  
   <dependencies>
 <dependency>
     <groupId>org.springframework</groupId>
